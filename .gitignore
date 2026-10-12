@@ -1,0 +1,7 @@
+# Rust build output
+target/
+
+# Editor / OS files
+.idea/
+.vscode/
+.DS_Store
