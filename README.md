@@ -29,14 +29,22 @@ cd chapter_3/temp_converter
 cargo run
 ```
 
-## Roadmap
+## Problems, chapter wise
 
-- [x] Chapter 3: Common Programming Concepts
-  - [x] `temp_converter`
-- [ ] Chapter 4: Understanding Ownership
-- [ ] Chapter 5: Using Structs, Enums, and Patterns
-- [ ] Chapter 6: Functions
-- [ ] Chapter 7: Modules, Crates, and Packages
+### Chapter 3: Common Programming Concepts
+
+Full list of problems lives in [chapter_3/README.md](chapter_3).
+
+- [`temp_converter`](chapter_3): read a temperature, convert Fahrenheit to Celsius
+  and back.
+
+### Chapter 4: Understanding Ownership
+
+Coming soon.
+
+### Chapter 5: Using Structs, Enums, and Patterns
+
+Coming soon.
 
 More chapters and exercises are added as the journey continues.
 
